@@ -1,0 +1,16 @@
+body
+{
+background-position: center;
+background-size: cover;
+}
+
+#input_1 
+{
+    width:20%;
+}
+
+canvas
+{
+    box-shadow: 5px 5px 5px red;
+    margin-top: 200px;
+}
